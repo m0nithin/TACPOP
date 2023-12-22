@@ -51,7 +51,7 @@ html {
 
 body {
 
-    background-color: #ffe982;
+    background-color: #f2d3bc;
 }
 
 a {
@@ -267,7 +267,7 @@ section {
 }
 
 .fireSeperator {
-    background-color: #ffe982;
+    background-color: #f2d3bc;
     background-image: url(/static/media/divider.b9f563473c3cd0758669.svg);
     background-position: 50%;
     background-repeat: repeat-x;
@@ -282,7 +282,7 @@ section {
 }
 
 #about {
-    background-color: #ffe982;
+    background-color: #f2d3bc;
     flex-direction: row;
     height: -webkit-fit-content;
     height: -moz-fit-content;
@@ -338,7 +338,7 @@ section {
 
 #how {
     align-items: center;
-    background-color: #ffe982;
+    background-color: #f2d3bc;
     display: flex;
     flex-direction: column;
     height: -webkit-fit-content;
@@ -474,7 +474,7 @@ section {
 
 #tokenomics {
     align-items: center;
-    background-color: #ffe982;
+    background-color: #f2d3bc;
     display: flex;
     flex-direction: column;
     height: -webkit-fit-content;
@@ -560,7 +560,7 @@ section {
 
 #roadmap {
     align-items: center;
-    background-color: #ffe982;
+    background-color: #f2d3bc;
     display: flex;
     flex-direction: column;
     height: -webkit-fit-content;
@@ -665,7 +665,7 @@ section {
 
 #contact {
     align-items: center;
-    background-color: #ffe982;
+    background-color: #f2d3bc;
     display: flex;
     flex-direction: column;
     height: -webkit-fit-content;
@@ -1050,13 +1050,13 @@ section {
     }
 
     .menu-wrap.burger-menu {
-        background-color: #ffe982 !important;
+        background-color: #f2d3bc !important;
         width: 100vw !important
     }
 
     .menu-wrap.burger-menu .menu {
         align-items: center;
-        background-color: #ffe982 !important;
+        background-color: #f2d3bc !important;
         display: flex;
         flex-direction: column
     }
